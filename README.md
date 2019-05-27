@@ -2,7 +2,7 @@
 
 <strong>Heroku Link:</strong> https://thawing-thicket-66873.herokuapp.com/ <br>
 
-![text](../src/assets/images/project.jpg)
+![text](./src/assets/images/project.jpg)
   
 ## Set-Up
 Initialize the `package.json` file then install the following node packages:
