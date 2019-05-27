@@ -1,6 +1,8 @@
 # Yum(Me) v.3
 
-<strong>Heroku Link:</strong> https://thawing-thicket-66873.herokuapp.com/ <br>  
+<strong>Heroku Link:</strong> https://thawing-thicket-66873.herokuapp.com/ <br>
+
+![](../assets/images/project.jpg)
   
 ## Set-Up
 Initialize the `package.json` file then install the following node packages:
