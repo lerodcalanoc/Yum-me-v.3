@@ -1,6 +1,5 @@
 # Yum(Me)v.3
 
-<strong>Video Demonstration:</strong><br>
 <strong>Heroku Link:</strong> https://thawing-thicket-66873.herokuapp.com/ <br>  
   
 ## Set-Up
