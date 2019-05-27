@@ -1,4 +1,4 @@
-# Yum(Me)v.3
+# Yum(Me) v.3
 
 <strong>Heroku Link:</strong> https://thawing-thicket-66873.herokuapp.com/ <br>  
   
