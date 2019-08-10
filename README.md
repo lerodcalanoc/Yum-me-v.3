@@ -1,6 +1,6 @@
 # Yum(Me) v.3
 
-["Click here to launch the app"](https://thawing-thicket-66873.herokuapp.com/)
+["Click here to launch the app"](https://yummev3.herokuapp.com/)
 
 ![](client/src/assets/images/project.jpg)
   
